@@ -40,6 +40,8 @@
 
 /*
 !/*.gitignore
+!/README.md
+!/LICENSE
 ##
 !*.qpf
 !*.qsf
