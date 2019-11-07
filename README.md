@@ -4,7 +4,8 @@
 
 ## Description
 
-This is a full adder circuit by Verilog HDL.
+This is a [full adder](https://en.wikipedia.org/wiki/Adder_(electronics)) circuit by Verilog HDL.
+
 The development environment is Quartus II.
 
 ## License
